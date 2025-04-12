@@ -8,7 +8,7 @@ import lombok.Data;
 @NoArgsConstructor
 @Data
 
-public class libro {
+public class Libro {
 
     private int id;
     private String isbn;
