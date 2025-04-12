@@ -6,7 +6,7 @@ import lombok.Data;
 
 @AllArgsConstructor
 @NoArgsConstructor
-@Data
+@Data //lombok
 
 public class Libro {
 
